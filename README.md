@@ -1,3 +1,5 @@
+> **Archived:** Guess the Qubit is now a single monorepo. The Expo client lives in [guess-the-qubit/apps/expo](https://github.com/DavidJGrimsley/guess-the-qubit/tree/main/apps/expo), alongside the Unreal project. Continue development in the monorepo.
+
 # Guess the Qubit
 
 Guess quantum measurements with simulator and asynchronous hardware modes in AR.
